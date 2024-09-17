@@ -19,6 +19,10 @@ Page 85100 "Student List"
                     ApplicationArea = All;
                     StyleExpr = Styleexpr_gTxt;
                 }
+                field(Rec; Rec.Address)
+                {
+                    ApplicationArea = All;
+                }
             }
         }
     }
