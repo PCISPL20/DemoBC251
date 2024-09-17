@@ -12,6 +12,10 @@ Table 85100 Student
         {
             DataClassification = ToBeClassified;
         }
+        field(40; Address; Text[30])
+        {
+            DataClassification = ToBeClassified;
+        }
     }
 
     keys

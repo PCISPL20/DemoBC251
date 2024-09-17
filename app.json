@@ -30,7 +30,7 @@
     "NoImplicitWith"
   ],
   "source": {
-    "repositoryUrl": "https://github.com/PCISPL20/PC-Test-BC25-Demo.git",
-     "commit": "d8c659a911aca37d925571e14f90e3a99c07bb0c"
+    "repositoryUrl": "https://github.com/PCISPL20/DemoBC251",
+     "commit": "999e5d3a219545f4306af472c054c066793c12cc"
   }
 }
